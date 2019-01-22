@@ -22,7 +22,7 @@ Lastly, you need to write some logics for what will happen when you press the bu
   - First, check if both username and password have been filled out. If not, do nothing.
   - If both have been filled out and it is the first time the user clicks the button, change the text of the button from `Launch` to `3`.
   - The second time it is clicked, change text to `2`.
-  - The third time, change text to `3`
+  - The third time, change text to `1`
   - The fourth time, change text to `LIFTOFF!`
   - For successive presses, do nothing. The rocket has already been launched, you can't _unlaunch_ it.
 
