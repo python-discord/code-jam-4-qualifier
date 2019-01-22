@@ -29,3 +29,5 @@ Lastly, you need to write some logics for what will happen when you press the bu
 If you did everything correctly, it should look like this:
 
 ![Major Tom to Ground Control](https://imgur.com/kq15Fij.gif)
+
+Once you're done with your task, [**you can sign up here**](https://docs.google.com/forms/d/1yONgphOadXxLZW6dDXNjWKe-_vEls5jYvWUcslE6gBo)!
